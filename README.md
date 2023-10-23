@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **RUST**, **CAIRO**
 
-- 💬 I know about _React,Next, Node JS ,Express JS, C#, Cairo, Solidity, Rust, SQL, Mongo DB_
+- 💬 I know about _React,Next, Node JS, NestJS ,Express JS, C#, Cairo, Solidity, Rust, SQL, Mongo DB, RESTful API, GraphQL_
 
 - 📫 How to reach me **baonguyen120301@gmail.com**
 
 - 📄 Know about my experiences [My-CV-Here](Cv Link update soons)
 
-- ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bao-nguyen-2b4b4b226/" >
