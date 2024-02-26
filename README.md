@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **baonguyen120301@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FmvMalhszX4hOK7DH7ENmFBtP4bOGxJC/view?usp=sharing]
+- 📄 Know about my experiences https://drive.google.com/file/d/1FmvMalhszX4hOK7DH7ENmFBtP4bOGxJC/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
